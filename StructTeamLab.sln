@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructTeamLab", "StructTeamLab.csproj", "{1210396B-B923-40A4-B62D-5D8E8F8B72BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1210396B-B923-40A4-B62D-5D8E8F8B72BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1210396B-B923-40A4-B62D-5D8E8F8B72BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1210396B-B923-40A4-B62D-5D8E8F8B72BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1210396B-B923-40A4-B62D-5D8E8F8B72BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D35BB2A-55A2-4214-8E13-94C510E2A13D}
+	EndGlobalSection
+EndGlobal

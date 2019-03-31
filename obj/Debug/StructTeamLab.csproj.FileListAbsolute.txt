@@ -1,0 +1,7 @@
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\obj\Debug\StructTeamLab.csprojAssemblyReference.cache
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\obj\Debug\StructTeamLab.csproj.CoreCompileInputs.cache
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\bin\Debug\StructTeamLab.exe.config
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\bin\Debug\StructTeamLab.exe
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\bin\Debug\StructTeamLab.pdb
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\obj\Debug\StructTeamLab.exe
+D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\obj\Debug\StructTeamLab.pdb
