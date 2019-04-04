@@ -25,11 +25,11 @@ namespace StructTeamLab
 
         static void runMenu(Student[] studs)
         {
-            Console.WriteLine("Ввести номер варiанту для виконання\n(1 - Митренко, 2 - Вакулiнський, 3 - Литвиненко)\nДля виходу натиснiть \"0\"");
+            Console.WriteLine("Ввести номер варiанту для виконання\n(1 - Митренко, 2 - Вакулiнський, 3 - Литвиненко)\nДля виходу натиснiть \"0\"\nНомер:");
             switch (int.Parse(Console.ReadLine()))
             {
                 case (1):
-                    //Add methods
+                    Test(studs);
                     break;
                 case (2):
                     //Add methods
@@ -41,6 +41,7 @@ namespace StructTeamLab
                     System.Environment.Exit(0);
                     break;
             }
+            runMenu(studs);
         }
 
         static void Main(string[] args)
