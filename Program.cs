@@ -29,7 +29,7 @@ namespace StructTeamLab
             switch (int.Parse(Console.ReadLine()))
             {
                 case (1):
-                    Test(studs);
+                    MytrenkoTest(studs);
                     break;
                 case (2):
                     //Add methods

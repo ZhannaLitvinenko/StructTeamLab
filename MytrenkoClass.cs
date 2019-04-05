@@ -8,7 +8,7 @@ namespace StructTeamLab
 {
     partial class Program
     {
-        static void Test(Student[] students)
+        static void MytrenkoTest(Student[] students)
         {
             int countOfStraightA = 0;
             for (int i = 0; i < students.Length; i++)
