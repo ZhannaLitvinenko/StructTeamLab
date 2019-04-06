@@ -32,7 +32,7 @@ namespace StructTeamLab
                     MytrenkoTest(studs);
                     break;
                 case (2):
-                    //Add methods
+                    VakulinskiyTest(studs);
                     break;
                 case (3):
                     //Add methods
