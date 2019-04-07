@@ -35,7 +35,7 @@ namespace StructTeamLab
                     VakulinskiyTest(studs);
                     break;
                 case (3):
-                    //Add methods
+                    LytvynenkoTest(studs);
                     break;
                 case (0):
                     System.Environment.Exit(0);
