@@ -5,3 +5,10 @@ D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\bin\Debug\StructTeamLab.exe
 D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\bin\Debug\StructTeamLab.pdb
 D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\obj\Debug\StructTeamLab.exe
 D:\User\univer\ПАЛМ\лаба_5\StructTeamLab\obj\Debug\StructTeamLab.pdb
+D:\StructTeamLab\bin\Debug\StructTeamLab.exe.config
+D:\StructTeamLab\bin\Debug\StructTeamLab.exe
+D:\StructTeamLab\bin\Debug\StructTeamLab.pdb
+D:\StructTeamLab\obj\Debug\StructTeamLab.csprojAssemblyReference.cache
+D:\StructTeamLab\obj\Debug\StructTeamLab.csproj.CoreCompileInputs.cache
+D:\StructTeamLab\obj\Debug\StructTeamLab.exe
+D:\StructTeamLab\obj\Debug\StructTeamLab.pdb

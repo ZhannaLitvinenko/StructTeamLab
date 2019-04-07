@@ -32,7 +32,5 @@ namespace StructTeamLab
             informaticsMark = char.Parse(data[7]);
             scholarship = int.Parse(data[8]);
         }
-
-
     }
 }
