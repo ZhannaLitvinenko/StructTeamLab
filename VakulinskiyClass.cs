@@ -12,6 +12,15 @@ namespace StructTeamLab
 		{
 			for (int i = 0; i < students.Length; i++)
 			{
+				if (students[i].informaticsMark.Equals('-'))
+					students[i].mathematicsMark = '2';
+
+				if (students[i].mathematicsMark.Equals('-'))
+					students[i].mathematicsMark = '2';
+
+				if (students[i].physicsMark.Equals('-'))
+					students[i].physicsMark = '2';
+
 				if (students[i].informaticsMark.Equals('5'))
 				{
 					double mathMark = Char.GetNumericValue(students[i].mathematicsMark);
