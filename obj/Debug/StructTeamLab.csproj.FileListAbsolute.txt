@@ -19,3 +19,10 @@ E:\Саша\Лабараторні\Програмування\2-й семест�
 E:\Саша\Лабараторні\Програмування\2-й семестр\Laba5\StructTeamLab\obj\Debug\StructTeamLab.csproj.CoreCompileInputs.cache
 E:\Саша\Лабараторні\Програмування\2-й семестр\Laba5\StructTeamLab\obj\Debug\StructTeamLab.exe
 E:\Саша\Лабараторні\Програмування\2-й семестр\Laba5\StructTeamLab\obj\Debug\StructTeamLab.pdb
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\bin\Debug\StructTeamLab.exe.config
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\bin\Debug\StructTeamLab.exe
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\bin\Debug\StructTeamLab.pdb
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\obj\Debug\StructTeamLab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\obj\Debug\StructTeamLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\obj\Debug\StructTeamLab.exe
+C:\Users\User\Desktop\Програмування (2 семестр)\StructTeamLab\obj\Debug\StructTeamLab.pdb
