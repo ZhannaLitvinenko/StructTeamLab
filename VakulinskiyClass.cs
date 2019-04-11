@@ -28,7 +28,7 @@ namespace StructTeamLab
 					double physicsMark = Char.GetNumericValue(students[i].physicsMark);
 					// Finding of grade point avarage
 					double GPA = (mathMark + infMark + physicsMark) / 3;
-					Console.WriteLine("\nСтудент:\n{0} {1} {2}\n Середнiй бал:\n {3}", students[i].surName, students[i].firstName, students[i].patronymic, GPA);
+					Console.WriteLine("\nСтудент:\n{0} {1} {2}\n Середнiй бал:\n {3}\n", students[i].surName, students[i].firstName, students[i].patronymic, GPA);
 				}
 
 			}
